@@ -6,6 +6,10 @@ Online brainfuck interpreter: https://sange.fi/esoteric/brainfuck/impl/interp/i.
 
 What is brainfuck? https://en.wikipedia.org/wiki/Brainfuck
 
+Installing dependencies:
+```
+pip install pyperclip
+```
 
 Example of brainfuck code: 
 
